@@ -55,5 +55,5 @@ topics:
     image_url: https://www.grenadabroadcast.com/wp-content/uploads/2019/07/CELL-PHONE.png
 
   - name: machine learning
-    web_url: https://github.com/topics/sass
+    #web_url: https://github.com/topics/sass
     image_url: https://webstockreview.net/images/clipart-brain-transparent-background-4.jpg
